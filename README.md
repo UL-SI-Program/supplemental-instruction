@@ -35,7 +35,7 @@ Attending SI sessions is free and voluntary. No registration is required - just 
 
 ## Contact Information
 
-- **Email**: [cae.si@keyaka.ul.ac.za](#)
+- **Email**: [#](cae.si@keyaka.ul.ac.za)
 - **Office**: [B-Block, -0003]
 - **Phone**: [015 268 4131/3408 ]
 - **UL Website**: [https://www.ul.ac.za/](#)
@@ -46,9 +46,9 @@ Attending SI sessions is free and voluntary. No registration is required - just 
 - [Study Tips](#)
 - [Become an SI Leader](#)
 
-- #How To Apply:
+  ##How To Apply:
 
-- **Click here**: [https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link]
+  - [Click Here To Apply](https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link)
 
 ---
 
