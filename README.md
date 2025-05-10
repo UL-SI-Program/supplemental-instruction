@@ -1,55 +1,80 @@
-# University of Limpopo Supplemental Instruction Program
+# 📘 SI Programme 2025 – First Semester  
+**Centre for Academic Excellence (CAE)**  
 
-Welcome to the official website for the University of Limpopo's Supplemental Instruction (SI) Program!
-
-## About Us
-
-The Supplemental Instruction Program at the University of Limpopo provides peer-led academic support to help students succeed in traditionally challenging courses. Our SI leaders are students who have previously excelled in these courses and are trained to facilitate collaborative learning sessions.
-
-## What We Offer
-
-- **Regular Study Sessions**: Weekly scheduled sessions focusing on difficult course content
-- **Peer-Led Learning**: Sessions facilitated by students who have mastered the material
-- **Collaborative Environment**: Interactive sessions that encourage active participation
-- **Academic Support**: Strategies for note-taking, test preparation, and study skills
-
-## Schedule
-
-| Course | SI Leader | Day | Time | Location |
-|--------|-----------|-----|------|----------|
-| Example Course 1 | TBA | Monday | 14:00-16:00 | TBA |
-| Example Course 2 | TBA | Wednesday | 10:00-12:00 | TBA |
-| Example Course 3 | TBA | Thursday | 15:00-17:00 | TBA |
-
-## Benefits of Attending
-
-- Improve your understanding of course material
-- Develop effective study strategies
-- Build confidence in your academic abilities
-- Connect with other students in your courses
-- Higher grades and course completion rates
-
-## Join Us
-
-Attending SI sessions is free and voluntary. No registration is required - just show up to any session for the courses you're enrolled in!
-
-## Contact Information
-
-- **Email**: [#](cae.si@keyaka.ul.ac.za)
-- **Office**: [B-Block, -0003]
-- **Phone**: [015 268 4131/3408 ]
-- **UL Website**: [https://www.ul.ac.za/](#)
-
-## Resources
-
-- [Academic Calendar](https://www.ul.ac.za/about-us/calendar/)
-- [Study Tips](#)
-- [Become an SI Leader](#)
-
-  ##How To Apply:
-
-  - [Click Here To Apply](https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link)
+> **✅ Applications are now OPEN!**  
+> **📅 Deadline: 06 February 2025 @ 12h00**
 
 ---
 
-*Last updated: May 2025*
+## 📌 What is SI?
+
+The Supplemental Instruction (SI) Programme is an internationally recognized academic support programme that helps students succeed in historically challenging modules. It recruits high-achieving students to support peers through structured, peer-led study sessions.
+
+---
+
+## ✅ Minimum Requirements
+
+- Passed the module with at least **60%**
+- **2nd year** for 1st-year modules  
+- **3rd year** for 2nd-year modules  
+- **4th year/Honours** for 3rd-year modules  
+- Fully registered with a **good academic record**  
+- **Mentorship experience** is a plus  
+> ❗ Must not be attached to any other CAE student support units
+
+---
+
+## 🛠️ Duties of SI Leaders
+
+- Conduct **blended SI sessions**
+- Attend at least **50% of the lectures**
+- Participate in **SI workshops and related activities**
+
+---
+
+## 💼 How to Apply
+
+Prepare the following documents:
+- Application Letter (mentioning your **preferred module code**)
+- Curriculum Vitae (CV)
+- Certified ID Copy
+- Academic Record
+- Proof of Registration
+
+> 📎 **Merge all documents into one PDF named**: `Surname_Initials.pdf`  
+> 📧 Send your application to: **[cae.si@keyaka.ul.ac.za](mailto:cae.si@keyaka.ul.ac.za)**
+
+> ⚠️ Applications missing required documents will **not be considered**
+
+---
+
+## 💰 Stipend
+
+Remuneration is according to the **UL Student Assistant Rates**.
+
+---
+
+## 🌟 Why Join the SI Programme?
+
+- Enhance your **leadership**, **communication**, and **facilitation** skills  
+- Develop **problem-solving** abilities  
+- Receive an **SI Certificate**  
+- Boost your **CV**  
+- Make a difference in your academic community
+
+---
+
+## 📞 Contact Details
+
+**Ms. Mohale Agnes** – SI Supervisor  
+📧 Email: [cae.si@keyaka.ul.ac.za](mailto:cae.si@keyaka.ul.ac.za)  
+📞 Tel: 015 268 4131 / 3408  
+📍 Office: **B-Block, -0003**
+
+📘 [View the full University Calendar](https://www.ul.ac.za/index.php?Entity=Academics)
+
+---
+
+## 🚀 Ready to Apply?
+
+➡️ **[Click here to apply now via email](mailto:cae.si@keyaka.ul.ac.za)**
