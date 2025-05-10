@@ -35,16 +35,20 @@ Attending SI sessions is free and voluntary. No registration is required - just 
 
 ## Contact Information
 
-- **Email**: [example@ul.ac.za](mailto:example@ul.ac.za)
-- **Office**: [Building Name, Room Number]
-- **Phone**: [Phone Number]
-- **Instagram**: [@UL_SI_Program](https://instagram.com)
+- **Email**: [cae.si@keyaka.ul.ac.za](#)
+- **Office**: [B-Block, -0003]
+- **Phone**: [015 268 4131/3408 ]
+- **UL Website**: [https://www.ul.ac.za/](#)
 
 ## Resources
 
-- [Academic Calendar](#)
+- [Academic Calendar](https://www.ul.ac.za/about-us/calendar/)
 - [Study Tips](#)
 - [Become an SI Leader](#)
+
+- #How To Apply:
+
+- **Click here**: [https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link]
 
 ---
 
