@@ -1,7 +1,8 @@
-Centre for Academic Excellence | University of Limpopo
-
-
 #Supplemental Instruction Programme#
+
+
+
+Centre for Academic Excellence | University of Limpopo
 ---
 We are pleased to welcome you to the Supplemental Instruction (SI) Programme — a student-driven academic support initiative offered under the Centre for Academic Excellence at the University of Limpopo. 
 
