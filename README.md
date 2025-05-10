@@ -1,7 +1,10 @@
-# Welcome to the official website for the University of Limpopo's Supplemental Instruction (SI) Program!
+Centre for Academic Excellence | University of Limpopo
 
 
+Supplemental Instruction(SI) Programme
 ---
+We are pleased to welcome you to the Supplemental Instruction (SI) Programme — a student-driven academic support initiative offered under the Centre for Academic Excellence at the University of Limpopo. 
+
 
 # Applications Are Now Open  
 **Semester:** Second Semester 2025  
@@ -93,4 +96,3 @@ SI Leaders will be compensated according to the official **UL Student Assistant 
 [**Click Here**](https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link)
 
 **Deadline:** 16 May 2025
-**Email Submissions:** cae.si@keyaka.ul.ac.za
