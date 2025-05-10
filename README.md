@@ -1,12 +1,10 @@
-# Supplemental Instruction | University of Limpopo  
-**Centre for Academic Excellence (CAE)**
+# Welcome to the official website for the University of Limpopo's Supplemental Instruction (SI) Program!
+
 
 ---
 
-## Applications Now Open  
-**Semester:** First Semester 2025  
-**Closing Date:** 06 February 2025 at 12h00  
-**Submit Applications To:** cae.si@keyaka.ul.ac.za
+# Applications Are Now Open  
+**Semester:** Second Semester 2025  
 
 ---
 
@@ -56,11 +54,8 @@ SI aims to improve student performance, academic confidence, and module completi
 2. Name the file using this format: `Surname_Initials.pdf`  
 3. Submit using either method below:
 
-### Option 1: Submit by Email  
-Send your application to: **cae.si@keyaka.ul.ac.za**
 
-### Option 2: Submit via Online Form  
-[**Click here to apply online**](https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link)
+### Submit via Online Form  
 
 > ⚠️ **Note:** Only **one application per candidate** is allowed.  
 > If multiple applications are submitted, the application will be **considered null**.  
@@ -89,13 +84,13 @@ SI Leaders will be compensated according to the official **UL Student Assistant 
 **Email:** cae.si@keyaka.ul.ac.za  
 **Phone:** 015 268 4131 / 3408  
 **Office Location:** B-Block, Room -0003  
-**University Calendar:** [Click here to view](https://www.ul.ac.za/index.php?Entity=Academics)
+**University Calendar:** [Click here to view](https://www.ul.ac.za/about-us/calendar/)
 
 ---
 
 ## Apply Now
 
-[**Submit Application via Google Form**](https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link)
+[**Click Here**](https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link)
 
-**Deadline:** 06 February 2025 at 12h00  
+**Deadline:** 16 May 2025
 **Email Submissions:** cae.si@keyaka.ul.ac.za
