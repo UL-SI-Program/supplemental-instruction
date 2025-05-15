@@ -91,4 +91,4 @@ SI Leaders will be compensated according to the official **UL Student Assistant 
 
 [**Click Here**](https://docs.google.com/forms/d/e/1FAIpQLSc_1rF-V8Xja1TH2BFsj0QhWhpdvcLAew5YG531Uh4z7EBeiQ/viewform?usp=sf_link)
 
-**Deadline:** 16 May 2025
+**Deadline:** 19 May 2025
