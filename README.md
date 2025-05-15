@@ -4,7 +4,7 @@ We are pleased to welcome you to the Supplemental Instruction (SI) Programme —
 
 # Applications Are Now Open  
 **Semester:** Second Semester 2025  
-**Modules Available to Facilitate:** [Click here to view](modules-available.pdf)
+**Modules Available to Facilitate:** [Click here to view](modules-available_organized)
 --- 
 
 ## About the Supplemental Instruction (SI) Programme
